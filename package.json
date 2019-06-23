@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/frankra/ts-annotations-test/issues"
   },
-  "homepage": "https://github.com/frankra/ts-annotations-test#readme"
+  "homepage": "https://github.com/frankra/ts-annotations-test#readme",
+  "dependencies": {
+    "tsc": "1.20150623.0"
+  }
 }
